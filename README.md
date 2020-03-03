@@ -19,6 +19,12 @@ There are two parts to the challenge:
 5. Run: `terraform apply`
 6. After successful deployment, run: `./validate.sh` for automated tests
 
+## Infrastructure: Demo
+[http://dule1.com](http://dule1.com)
+[https://dule1.com](https://dule1.com)
+[http://www.dule1.com](http://www.dule1.com)
+[https://www.dule1.com](https://www.dule1.com)
+
 ## Coding: Prerequisites
 
 - Tested on `Mac OSX 10.14.2` - `go version go1.14 darwin/amd64`
